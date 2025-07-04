@@ -1,0 +1,11 @@
+{
+  "name": "cursos-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gustavosrosa/cursos-api.git",
+  "author": "gustavosrosa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
